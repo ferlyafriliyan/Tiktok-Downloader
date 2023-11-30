@@ -5,8 +5,8 @@ from api import Colors, SnaptikDownloader
 if __name__ == "__main__":
     """
     Support both type of tiktok URL;
-     [>] https://vt.tiktok.com/ZSN9kJose
-     [>] https://www.tiktok.com/@anttonraccaus/video/7279062551613246752?is_from_webapp=1&sender_device=pc
+     [>] https://vm.tiktok.com/ZSNxBbr3C/
+     [>] https://vm.tiktok.com/ZSNxBwhY8/
     """
 
     os.system("cls" if os.name == "nt" else "clear")
